@@ -13,7 +13,7 @@ public class Shot2 : MonoBehaviour {
 		Debug.DrawRay (transform.position, this.transform.forward * Range, Color.red);
 
 		if (Input.GetKeyDown(KeyCode.Space))
-		{
+		{ 
 			RaycastHit hit;
 			if (Physics.Raycast (transform.position, transform.forward, out hit, Range)) 
 			{
