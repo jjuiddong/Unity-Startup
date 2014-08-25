@@ -46,7 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GameManager.cs" />
      <Compile Include="Assets\IntroUI.cs" />
+     <Compile Include="Assets\Janpa.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
