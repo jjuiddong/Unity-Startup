@@ -4,6 +4,7 @@ using System.Collections;
 public class Janpa : MonoBehaviour {
 
 	public GameObject ball;
+	public GameObject gameManager;
 
 	// Use this for initialization
 	void Start () {
@@ -26,7 +27,7 @@ public class Janpa : MonoBehaviour {
 
 		Instantiate ( ball, pos, Quaternion.Euler(0,0,0) );
 
-		SendMessage ("GameManager.OutBall");
+		gameManager.SendMessage ("OutBall");
 
 	}
 
