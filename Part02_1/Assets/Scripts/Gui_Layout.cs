@@ -29,11 +29,11 @@ public class Gui_Layout : MonoBehaviour
 	float _guiHeight;
 
 	bool TextureIN=false;
-
-#if !(UNITY_EDITOR)
+	
 	void Awake ()
 	{
-	
+		#if !(UNITY_EDITOR)
+		
 		_gui_text = GetComponent<GUIText> ();
 		_gui_texture = GetComponent<GUITexture> ();
 		screenX = Screen.width;
@@ -45,12 +45,13 @@ public class Gui_Layout : MonoBehaviour
 			_guiWidth = _gui_texture.pixelInset.width;
 			_guiHeight = _gui_texture.pixelInset.height;
 		}
-		
+
 		PositionSetting ();
+		#endif
+		
 		
 	}
-#endif
-	
+
 	void Update ()
 	{ 
 		#if UNITY_EDITOR
