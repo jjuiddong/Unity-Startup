@@ -15,10 +15,10 @@ public class Plane : MonoBehaviour {
 	
 	}
 
-	void OnTriggerEnter(Collider collider)
+	void OnTriggerEnter(Collider obj) 
 	{
 		print ("trigger");
-		Instantiate (coinPrefab, new Vector3 (0, 8, 0), Quaternion.Euler (0, 0, 0));
+		Instantiate (coinPrefab, new Vector3 (0, 8, 0), Quaternion.Euler (0, 0, 90));
 	}
 
 }

@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\CoinTest\Assets\Plane.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plane.cs">
     <Files>
-      <File FileName="..\CoinTest\Assets\Plane.cs" Line="8" Column="32" />
+      <File FileName="Assets\Plane.cs" Line="8" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
