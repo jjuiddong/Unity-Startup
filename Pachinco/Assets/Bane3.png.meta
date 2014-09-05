@@ -1,0 +1,2182 @@
+fileFormatVersion: 2
+guid: 78ff754d203dea5468a1182afb4747fb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bane3
+    21300002: Bane3_0
+    21300004: Bane3_1
+    21300006: Bane3_2
+    21300008: Bane3_3
+    21300010: Bane3_4
+    21300012: Bane3_5
+    21300014: Bane3_6
+    21300016: Bane3_7
+    21300018: Bane3_8
+    21300020: Bane3_9
+    21300022: Bane3_10
+    21300024: Bane3_11
+    21300026: Bane3_12
+    21300028: Bane3_13
+    21300030: Bane3_14
+    21300032: Bane3_15
+    21300034: Bane3_16
+    21300036: Bane3_17
+    21300038: Bane3_18
+    21300040: Bane3_19
+    21300042: Bane3_20
+    21300044: Bane3_21
+    21300046: Bane3_22
+    21300048: Bane3_23
+    21300050: Bane3_24
+    21300052: Bane3_25
+    21300054: Bane3_26
+    21300056: Bane3_27
+    21300058: Bane3_28
+    21300060: Bane3_29
+    21300062: Bane3_30
+    21300064: Bane3_31
+    21300066: Bane3_32
+    21300068: Bane3_33
+    21300070: Bane3_34
+    21300072: Bane3_35
+    21300074: Bane3_36
+    21300076: Bane3_37
+    21300078: Bane3_38
+    21300080: Bane3_39
+    21300082: Bane3_40
+    21300084: Bane3_41
+    21300086: Bane3_42
+    21300088: Bane3_43
+    21300090: Bane3_44
+    21300092: Bane3_45
+    21300094: Bane3_46
+    21300096: Bane3_47
+    21300098: Bane3_48
+    21300100: Bane3_49
+    21300102: Bane3_50
+    21300104: Bane3_51
+    21300106: Bane3_52
+    21300108: Bane3_53
+    21300110: Bane3_54
+    21300112: Bane3_55
+    21300114: Bane3_56
+    21300116: Bane3_57
+    21300118: Bane3_58
+    21300120: Bane3_59
+    21300122: Bane3_60
+    21300124: Bane3_61
+    21300126: Bane3_62
+    21300128: Bane3_63
+    21300130: Bane3_64
+    21300132: Bane3_65
+    21300134: Bane3_66
+    21300136: Bane3_67
+    21300138: Bane3_68
+    21300140: Bane3_69
+    21300142: Bane3_70
+    21300144: Bane3_71
+    21300146: Bane3_72
+    21300148: Bane3_73
+    21300150: Bane3_74
+    21300152: Bane3_75
+    21300154: Bane3_76
+    21300156: Bane3_77
+    21300158: Bane3_78
+    21300160: Bane3_79
+    21300162: Bane3_80
+    21300164: Bane3_81
+    21300166: Bane3_82
+    21300168: Bane3_83
+    21300170: Bane3_84
+    21300172: Bane3_85
+    21300174: Bane3_86
+    21300176: Bane3_87
+    21300178: Bane3_88
+    21300180: Bane3_89
+    21300182: Bane3_90
+    21300184: Bane3_91
+    21300186: Bane3_92
+    21300188: Bane3_93
+    21300190: Bane3_94
+    21300192: Bane3_95
+    21300194: Bane3_96
+    21300196: Bane3_97
+    21300198: Bane3_98
+    21300200: Bane3_99
+    21300202: Bane3_100
+    21300204: Bane3_101
+    21300206: Bane3_102
+    21300208: Bane3_103
+    21300210: Bane3_104
+    21300212: Bane3_105
+    21300214: Bane3_106
+    21300216: Bane3_107
+    21300218: Bane3_108
+    21300220: Bane3_109
+    21300222: Bane3_110
+    21300224: Bane3_111
+    21300226: Bane3_112
+    21300228: Bane3_113
+    21300230: Bane3_114
+    21300232: Bane3_115
+    21300234: Bane3_116
+    21300236: Bane3_117
+    21300238: Bane3_118
+    21300240: Bane3_119
+    21300242: Bane3_120
+    21300244: Bane3_121
+    21300246: Bane3_122
+    21300248: Bane3_123
+    21300250: Bane3_124
+    21300252: Bane3_125
+    21300254: Bane3_126
+    21300256: Bane3_127
+    21300258: Bane3_128
+    21300260: Bane3_129
+    21300262: Bane3_130
+    21300264: Bane3_131
+    21300266: Bane3_132
+    21300268: Bane3_133
+    21300270: Bane3_134
+    21300272: Bane3_135
+    21300274: Bane3_136
+    21300276: Bane3_137
+    21300278: Bane3_138
+    21300280: Bane3_139
+    21300282: Bane3_140
+    21300284: Bane3_141
+    21300286: Bane3_142
+    21300288: Bane3_143
+    21300290: Bane3_144
+    21300292: Bane3_145
+    21300294: Bane3_146
+    21300296: Bane3_147
+    21300298: Bane3_148
+    21300300: Bane3_149
+    21300302: Bane3_150
+    21300304: Bane3_151
+    21300306: Bane3_152
+    21300308: Bane3_153
+    21300310: Bane3_154
+    21300312: Bane3_155
+    21300314: Bane3_156
+    21300316: Bane3_157
+    21300318: Bane3_158
+    21300320: Bane3_159
+    21300322: Bane3_160
+    21300324: Bane3_161
+    21300326: Bane3_162
+    21300328: Bane3_163
+    21300330: Bane3_164
+    21300332: Bane3_165
+    21300334: Bane3_166
+    21300336: Bane3_167
+    21300338: Bane3_168
+    21300340: Bane3_169
+    21300342: Bane3_170
+    21300344: Bane3_171
+    21300346: Bane3_172
+    21300348: Bane3_173
+    21300350: Bane3_174
+    21300352: Bane3_175
+    21300354: Bane3_176
+    21300356: Bane3_177
+    21300358: Bane3_178
+    21300360: Bane3_179
+    21300362: Bane3_180
+    21300364: Bane3_181
+    21300366: Bane3_182
+    21300368: Bane3_183
+    21300370: Bane3_184
+    21300372: Bane3_185
+    21300374: Bane3_186
+    21300376: Bane3_187
+    21300378: Bane3_188
+    21300380: Bane3_189
+    21300382: Bane3_190
+    21300384: Bane3_191
+    21300386: Bane3_192
+    21300388: Bane3_193
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bane3_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1151
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1151
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1151
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1151
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1151
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1151
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_6
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1151
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1151
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1151
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_9
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1151
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1055
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1055
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1055
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1055
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_14
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1055
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1055
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1055
+        width: 100
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_17
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1053
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_18
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1055
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_19
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1055
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_20
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1055
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_21
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1033
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_22
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1039
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1022
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_24
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1021
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1028
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_26
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1027
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_27
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1031
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_28
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1033
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1001
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 998
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_31
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1014
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_32
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1020
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_33
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1026
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 937
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 937
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 937
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1000
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_38
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1008
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_39
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 988
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_40
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1016
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_41
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 997
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_42
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1013
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_43
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 989
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_44
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 988
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_45
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 986
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_46
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1014
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_47
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 995
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_48
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1001
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_49
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1010
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_50
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1018
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_51
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 989
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_52
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1016
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_53
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 991
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_54
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 991
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_55
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1019
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_56
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1013
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_57
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 986
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_58
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 982
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_59
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 983
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_60
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 985
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_61
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 978
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_62
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 984
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_63
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 982
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_64
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 937
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 974
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_66
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 974
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_67
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 968
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_68
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 973
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_69
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 971
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_70
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 970
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_71
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 973
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_72
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 973
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_73
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 966
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_74
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 973
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_75
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 939
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_76
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 971
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_77
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 972
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_78
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 957
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_79
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 960
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_80
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 968
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 955
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_82
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 960
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 957
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_84
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 963
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_85
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 938
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_86
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 961
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_87
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 955
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_88
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 951
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_89
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 950
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_90
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 956
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_91
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 948
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_92
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 953
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_93
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 937
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_94
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 949
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_95
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_96
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 941
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_97
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 943
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_98
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 941
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_99
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 937
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_100
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 937
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_101
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 802
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_102
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 802
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_103
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 802
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_104
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 802
+        width: 102
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_105
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 802
+        width: 103
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_106
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 802
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_107
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 800
+        width: 100
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_108
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 802
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_109
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 802
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_110
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 802
+        width: 65
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_111
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 660
+        width: 62
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_112
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 660
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 660
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_114
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 660
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_115
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 660
+        width: 67
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_116
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 660
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_117
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 660
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_118
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 660
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_119
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 660
+        width: 106
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_120
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 660
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_121
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 660
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_122
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 579
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_123
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 579
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_124
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 579
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_125
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 579
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_126
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 579
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_127
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 584
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_128
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 589
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_129
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 589
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_130
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 592
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_131
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 596
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_132
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 485
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_133
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 485
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_134
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 485
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_135
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 485
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_136
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 485
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_137
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 485
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_138
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 485
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_139
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 485
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_140
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 485
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_141
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 485
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_142
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 485
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_143
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 485
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_144
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 403
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_145
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 403
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_146
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 403
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_147
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 403
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_148
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 403
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_149
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 403
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_150
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 403
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_151
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 403
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_152
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 403
+        width: 94
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_153
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 403
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_154
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 305
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 305
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_156
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 305
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_157
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 305
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_158
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 305
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_159
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 305
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_160
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 305
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_161
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 305
+        width: 88
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_162
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 305
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_163
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 305
+        width: 91
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_164
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 305
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_165
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 202
+        width: 91
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_166
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 202
+        width: 84
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_167
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 202
+        width: 81
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_168
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 202
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_169
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 202
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_170
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 202
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_171
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 202
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_172
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 202
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_173
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 202
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_174
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 202
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_175
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 202
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_176
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 197
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_177
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 110
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_178
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 110
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_179
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 110
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_180
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 110
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_181
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 109
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_182
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 109
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_183
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 109
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_184
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 109
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_185
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 109
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_186
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 109
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_187
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2
+        width: 129
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_188
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_189
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_190
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 7
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_191
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 7
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_192
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 7
+        width: 87
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bane3_193
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2
+        width: 180
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
