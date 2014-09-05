@@ -20,6 +20,10 @@ public class Hole : MonoBehaviour {
 	public Texture[] Catch_Images;
 	public Texture[] _Images;
 
+	public AudioClip catchSound;
+	public AudioClip openSound;
+
+
 	int aniCount = 0;
 	float incTime = 0;
 	public float animationSpeed = 20;
@@ -35,6 +39,9 @@ public class Hole : MonoBehaviour {
 		MS = MoleState.Open;
 		aniCount = 0;
 		incTime = 0;
+
+		audio.clip = openSound;
+		audio.Play ();
 	}
 
 	public void Open_Ing()
@@ -144,4 +151,12 @@ public class Hole : MonoBehaviour {
 		case MoleState.Close: Close_Ing(); break;
 		}
 	}
+
+	void OnMouseDown() {
+
+		print ("mouse down");
+
+
+	}
+
 }
