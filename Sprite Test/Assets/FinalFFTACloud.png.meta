@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 960db72cae6a5294fa568648d3510e9a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FinalFFTACloud
+    21300002: FinalFFTACloud_0
+    21300004: FinalFFTACloud_1
+    21300006: FinalFFTACloud_2
+    21300008: FinalFFTACloud_3
+    21300010: FinalFFTACloud_4
+    21300012: FinalFFTACloud_5
+    21300014: FinalFFTACloud_6
+    21300016: FinalFFTACloud_7
+    21300018: FinalFFTACloud_8
+    21300020: FinalFFTACloud_9
+    21300022: FinalFFTACloud_10
+    21300024: FinalFFTACloud_11
+    21300026: FinalFFTACloud_12
+    21300028: FinalFFTACloud_13
+    21300030: FinalFFTACloud_14
+    21300032: FinalFFTACloud_15
+    21300034: FinalFFTACloud_16
+    21300036: FinalFFTACloud_17
+    21300038: FinalFFTACloud_18
+    21300040: FinalFFTACloud_19
+    21300042: FinalFFTACloud_20
+    21300044: FinalFFTACloud_21
+    21300046: FinalFFTACloud_22
+    21300048: FinalFFTACloud_23
+    21300050: FinalFFTACloud_24
+    21300052: FinalFFTACloud_25
+    21300054: FinalFFTACloud_26
+    21300056: FinalFFTACloud_27
+    21300058: FinalFFTACloud_28
+    21300060: FinalFFTACloud_29
+    21300062: FinalFFTACloud_30
+    21300064: FinalFFTACloud_31
+    21300066: FinalFFTACloud_32
+    21300068: FinalFFTACloud_33
+    21300070: FinalFFTACloud_34
+    21300072: FinalFFTACloud_35
+    21300074: FinalFFTACloud_36
+    21300076: FinalFFTACloud_37
+    21300078: FinalFFTACloud_38
+    21300080: FinalFFTACloud_39
+    21300082: FinalFFTACloud_40
+    21300084: FinalFFTACloud_41
+    21300086: FinalFFTACloud_42
+    21300088: FinalFFTACloud_43
+    21300090: FinalFFTACloud_44
+    21300092: FinalFFTACloud_45
+    21300094: FinalFFTACloud_46
+    21300096: FinalFFTACloud_47
+    21300098: FinalFFTACloud_48
+    21300100: FinalFFTACloud_49
+    21300102: FinalFFTACloud_50
+    21300104: FinalFFTACloud_51
+    21300106: FinalFFTACloud_52
+    21300108: FinalFFTACloud_53
+    21300110: FinalFFTACloud_54
+    21300112: FinalFFTACloud_55
+    21300114: FinalFFTACloud_56
+    21300116: FinalFFTACloud_57
+    21300118: FinalFFTACloud_58
+    21300120: FinalFFTACloud_59
+    21300122: FinalFFTACloud_60
+    21300124: FinalFFTACloud_61
+    21300126: FinalFFTACloud_62
+    21300128: FinalFFTACloud_63
+    21300130: FinalFFTACloud_64
+    21300132: FinalFFTACloud_65
+    21300134: FinalFFTACloud_66
+    21300136: FinalFFTACloud_67
+    21300138: FinalFFTACloud_68
+    21300140: FinalFFTACloud_69
+    21300142: FinalFFTACloud_70
+    21300144: FinalFFTACloud_71
+    21300146: FinalFFTACloud_72
+    21300148: FinalFFTACloud_73
+    21300150: FinalFFTACloud_74
+    21300152: FinalFFTACloud_75
+    21300154: FinalFFTACloud_76
+    21300156: FinalFFTACloud_77
+    21300158: FinalFFTACloud_78
+    21300160: FinalFFTACloud_79
+    21300162: FinalFFTACloud_80
+    21300164: FinalFFTACloud_81
+    21300166: FinalFFTACloud_82
+    21300168: FinalFFTACloud_83
+    21300170: FinalFFTACloud_84
+    21300172: FinalFFTACloud_85
+    21300174: FinalFFTACloud_86
+    21300176: FinalFFTACloud_87
+    21300178: FinalFFTACloud_88
+    21300180: FinalFFTACloud_89
+    21300182: FinalFFTACloud_90
+    21300184: FinalFFTACloud_91
+    21300186: FinalFFTACloud_92
+    21300188: FinalFFTACloud_93
+    21300190: FinalFFTACloud_94
+    21300192: FinalFFTACloud_95
+    21300194: FinalFFTACloud_96
+    21300196: FinalFFTACloud_97
+    21300198: FinalFFTACloud_98
+    21300200: FinalFFTACloud_99
+    21300202: FinalFFTACloud_100
+    21300204: FinalFFTACloud_101
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FinalFFTACloud_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 328
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 328
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 328
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 328
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 328
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 328
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 328
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 328
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 328
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 328
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 328
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_12
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 328
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 328
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 258
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 258
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 258
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 258
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 258
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_20
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 258
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 258
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_22
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 258
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_23
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 258
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_24
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 254
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_25
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 258
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 258
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 258
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 204
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 202
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 202
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 200
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 196
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 198
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_36
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 196
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 198
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 206
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_39
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 206
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_40
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 202
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 202
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 146
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 142
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 142
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_47
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 135
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 135
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_49
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 135
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 94
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 94
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 94
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 94
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 94
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 94
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 94
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 94
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 94
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 94
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 94
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_62
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 94
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_63
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 94
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_64
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 77
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_65
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 77
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_66
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 76
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_67
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 76
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_68
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 77
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_70
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 59
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 59
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_72
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 59
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 59
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 59
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_75
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 59
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_76
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 59
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_77
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 59
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_78
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 59
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_79
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 57
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_80
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 59
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_81
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 59
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 59
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_84
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 32
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_86
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 31
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_87
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 30
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 30
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_89
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 28
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_90
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 29
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_91
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 28
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_92
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 29
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_93
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_94
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 33
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_95
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 31
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 31
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_98
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_99
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_100
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalFFTACloud_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
