@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\player.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Pachinco\Assets\AnimationSample.cs">
     <Files>
-      <File FileName="Assets\player.cs" Line="28" Column="3" />
+      <File FileName="..\Pachinco\Assets\AnimationSample.cs" Line="7" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
