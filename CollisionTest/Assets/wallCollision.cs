@@ -18,9 +18,6 @@ public class wallCollision : MonoBehaviour {
 	void  OnCollisionEnter2D(Collision2D collision)
 	{
 		print ("collision");
-
-		collision.rigidbody.AddForce(new Vector3(0, 500, 0));
-
 	}
 
 }

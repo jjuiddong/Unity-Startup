@@ -12,7 +12,7 @@ public class scroll : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		offset += Time.deltaTime * 0.1f;
+		offset += Time.deltaTime * 0.3f;
 		renderer.material.mainTextureOffset = new Vector2 (offset, 0);	
 	}
 }

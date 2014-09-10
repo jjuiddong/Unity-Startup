@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\Pachinco\Assets\AnimationSample.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\CollisionTest\Assets\wallCollision.cs">
     <Files>
-      <File FileName="..\Pachinco\Assets\AnimationSample.cs" Line="7" Column="2" />
+      <File FileName="..\CollisionTest\Assets\wallCollision.cs" Line="21" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
